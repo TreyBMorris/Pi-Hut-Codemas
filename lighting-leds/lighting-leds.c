@@ -22,6 +22,6 @@ int main()
         sleep_ms(500);
         pico_set_led(false);
         sleep_ms(500);
-        printf("Program finished");
     }
+    printf("Program finished");
 }
